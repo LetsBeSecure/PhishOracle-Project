@@ -4,6 +4,10 @@ The file structure is as follows.
   2) add_total_features.txt: add an integer between 4 and 10 (represents the number of phishing features to embed in a legitimate webpage)
   3) download_legitimate_webpages.py: this code reads the URL(s) from urls.csv and downloads it/them into a directory
   4) adding_15_features.py: This file contains 15 content-based phishing features
-  5) find_html_recursively.py: This file is the main file to run; it adds visual-based features (specific to logo), and calls the adding_15_features.py file to add remaining content-based phishing features.
+  5) add_visual_features_main.py: This file is the main file to run; it adds visual-based features (specific to logo), and calls the adding_15_features.py file to add remaining content-based phishing features.
+
+NOTE: Please replace "/path/to/downloaded_webpage/folder/" with the folder directory path in "add_visual_features_main.py"
 
 Finally, we obtain an adversarial phishing webpage!!!
+
+Instructions: Run the following command "python add_visual_features_main.py" to generate an adversarial phishing webpage for given legitimate webpages.
