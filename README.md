@@ -32,7 +32,7 @@ Phishing attacks attempt to deceive users into stealing sensitive information, p
   Finally, we contribute a dataset ([DATASET](https://drive.google.com/drive/folders/1rvzo5EGu78RnhXzcRL8OH_28Yo_Nxj6Z?usp=sharing)) containing **~10K** legitimate webpage screenshots, on which we manually labelled the identity logos.
 
 - ⚙️ **PhishOracle Web App**
-  Please refer to our PhishOracle Web App at [WebApp](https://github.com/LetsBeSecure/PhishOracle-Webapp)
+  Avialable at [WebApp](https://github.com/LetsBeSecure/PhishOracle-Webapp)
 
 ---
 
