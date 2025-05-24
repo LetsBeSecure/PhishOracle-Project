@@ -101,8 +101,7 @@ This approach ensures that the performance of the LLM-based approach is directly
 
 ## 📄 Citation
 
-If you find our work useful or insightful, we would sincerely appreciate it if you consider citing our paper:
-
+If you find our work valuable or insightful for your research, we would greatly appreciate it if you consider citing our paper:
 - 📄 [arXiv preprint](https://arxiv.org/pdf/2407.20361)
 
 ```bibtex
