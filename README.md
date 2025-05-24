@@ -2,7 +2,7 @@
 
 Official implementation of  
 **"From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks"**  
-Accepted at **ACM Digital Threats: Research and Practice (DTRAP), 2025** ![Paper](https://dl.acm.org/doi/10.1145/3737295)
+Accepted at **ACM Digital Threats: Research and Practice (DTRAP), 2025** [Paper](https://dl.acm.org/doi/10.1145/3737295)
 
 ---
 
