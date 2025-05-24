@@ -53,6 +53,7 @@ Finally, running this pipeline will generate an adversarial phishing webpage!
 Run the following commands to (i) download legitimate webpages, and (ii) generate adversarial phishing webpages for the legitimate webpages:
 
 ```bash
+cd PhishOracle_Tool
 python download_legitimate_webpages.py
 python add_visual_features_main.py
 ```
