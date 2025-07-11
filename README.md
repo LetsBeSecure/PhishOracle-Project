@@ -2,7 +2,7 @@
 
 Official implementation of  
 **"From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks"**  
-Accepted at **ACM Digital Threats: Research and Practice (DTRAP), 2025** [Paper](https://dl.acm.org/doi/10.1145/3737295)
+Accepted at **ACM Digital Threats: Research and Practice (DTRAP), 2025** [Paper](https://dl.acm.org/doi/pdf/10.1145/3737295)
 
 ---
 
@@ -105,12 +105,13 @@ This approach ensures that the performance of the LLM-based approach is directly
 ## 📄 Citation
 
 If you find our work valuable or insightful for your research, we would greatly appreciate it if you consider citing our paper:
-- 📄 [arXiv preprint](https://arxiv.org/pdf/2407.20361)
+- 📄 [ACM DTRAP](https://dl.acm.org/doi/pdf/10.1145/3737295)
 
 ```bibtex
 @article{kulkarni2024ml,
   title={From ml to llm: Evaluating the robustness of phishing webpage detection models against adversarial attacks},
   author={Kulkarni, Aditya and Balachandran, Vivek and Divakaran, Dinil Mon and Das, Tamal},
-  journal={arXiv preprint arXiv:2407.20361},
-  year={2024}
+  journal={Digital Threats: Research and Practice},
+  year={2024},
+  publisher={ACM New York, NY}
 }
