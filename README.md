@@ -82,13 +82,13 @@ Each of these models was **retrained** on our **latest collected dataset** of ph
 
 In this experiment, we use phishing and legitimate webpage screenshot datasets. The dataset consists of ~900 phishing samples targeting 41 brands, along with ~600 legitimate webpage screenshots for these 41 target brands, collected by visiting their official website hyperlinks. Additionally, to ensure an unbiased training process, we include ~300 legitimate webpage screenshots from non-target brands. This dataset is used to train the triplet CNN model in VisualPhishNet for visual similarity-based phishing detection. We follow the 60:40 train-test split to evaluate the model’s performance effectively.
 
-> 📂 **Dataset available here**: [DATASET](https://drive.google.com/drive/folders/1-uFoOrVRQehAgRy-M6lGicgZnNMo2se1?usp=sharing)
+> 📂 **Dataset available here**: [DATASET_3](https://drive.google.com/drive/folders/1-uFoOrVRQehAgRy-M6lGicgZnNMo2se1?usp=sharing)
 
 ### 🧩 Enhancements to Phishpedia
 
 To enhance Phishpedia's logo detection component, we manually annotated logos in **9067 legitimate webpage screenshots**. We used [MakeSense.ai](https://makesense.ai/) to draw bounding boxes around the logos, exporting the annotations in **XML format**. These were then converted to **COCO format**, which was used to retrain the object detection model within Phishpedia.
 
-> 📂 **Annotated dataset available here**: [DATASET](https://drive.google.com/drive/folders/1rvzo5EGu78RnhXzcRL8OH_28Yo_Nxj6Z?usp=sharing)
+> 📂 **Annotated dataset available here**: [DATASET_1](https://drive.google.com/drive/folders/1rvzo5EGu78RnhXzcRL8OH_28Yo_Nxj6Z?usp=sharing)
 
 ---
 
