@@ -108,10 +108,13 @@ If you find our work valuable or insightful for your research, we would greatly 
 - 📄 [ACM DTRAP](https://dl.acm.org/doi/pdf/10.1145/3737295)
 
 ```bibtex
-@article{kulkarni2024ml,
-  title={From ml to llm: Evaluating the robustness of phishing webpage detection models against adversarial attacks},
+@article{kulkarni2025ml,
+  title={From ML to LLM: Evaluating the Robustness of Phishing Web Page Detection Models against Adversarial Attacks},
   author={Kulkarni, Aditya and Balachandran, Vivek and Divakaran, Dinil Mon and Das, Tamal},
   journal={Digital Threats: Research and Practice},
-  year={2024},
+  volume={6},
+  number={2},
+  pages={1--25},
+  year={2025},
   publisher={ACM New York, NY}
 }
