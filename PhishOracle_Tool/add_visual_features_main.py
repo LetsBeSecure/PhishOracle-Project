@@ -234,14 +234,6 @@ def find_target_html_and_local_resources(folder_path):
 
 def add_logo_based_features():
     # Define paths
-
-    # The following code can be used to add a logo feature to the html file
-    # logo_feature = 1
-    # main_folder = "D:\\PhD_IIT_Dharwad\\Sem_6\\VisualPhishNet\\Validation_Remaining_Sites\\Validation_Inputs\\amazon.com\\"
-    # index_html_path = os.path.join(main_folder, "feature_"+str(logo_feature)+"_added.html")
-    # modified_html_path = os.path.join(main_folder, "feature"+str(logo_feature)+"_phishing_features_added.html")
-    # local_resources_folder = os.path.join(main_folder, "local_resources")
-
     # The following code is used to add random logo feature to the index.html file
     main_folder = "/path/to/downloaded_webpage/folder/"
     processing_time = []
